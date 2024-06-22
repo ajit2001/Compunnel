@@ -1,0 +1,7 @@
+
+Flask
+pymongo
+python-docx
+PyMuPDF
+openai
+        
